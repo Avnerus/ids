@@ -1,7 +1,35 @@
+@font-face {
+    font-family: Sentinel;
+    font-weight: normal;
+    src: url("../fonts/sentinel-book.otf") format("opentype");
+}
+@font-face {
+    font-family: Sentinel;
+    font-weight: bold;
+    src: url("../fonts/sentinel-boldItalic.otf") format("opentype");
+}
+@font-face {
+    font-family: Nimbus;
+    font-weight: normal;
+    src: url("../fonts/NimbusSanL-Reg.otf") format("opentype");
+}
+@font-face {
+    font-family: Nimbus;
+    font-weight: bold;
+    src: url("../fonts/NimbusSanL-Bol.otf") format("opentype");
+}
+
 body {
     margin: 0px;
     background-color: white;
     overflow: hidden;
+}
+
+#headline h1{
+    font-family: Sentinel;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
 }
 
 #game {
