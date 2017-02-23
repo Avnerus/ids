@@ -54,6 +54,7 @@ window.onload = function() {
 
         //start(); 
     });
+    console.log("Game->Load");
     game.load(function() {
         /*
         document.getElementById('start-container').style.display = "flex";
@@ -64,13 +65,13 @@ window.onload = function() {
 
 function start() {
     document.getElementById('splash-container').style.display = "none";
-    document.getElementById('game').appendChild(stats.dom);
+    //document.getElementById('game').appendChild(stats.dom);
     game.start();
     window.addEventListener('resize', resize, false);
     window.addEventListener('vrdisplaypresentchange', resize, true);
     game.resize();
     stats.begin();
-    requestAnimationFrame(animate);
+    //requestAnimationFrame(animate);
 }
 
 

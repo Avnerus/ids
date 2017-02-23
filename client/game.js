@@ -13,31 +13,9 @@ export default class  {
         global.events = this.emitter;
 
 
+        /*
         this.socketController = new SocketController();
-        this.socketController.init();
-
-        document.addEventListener('keydown', (event) => {
-            // 87, 65, 83, 68
-            let element = document.getElementById('key_' + event.keyCode);
-            if (element) {
-                element.style["background-color"] = "white";
-                element.style.color = "black";
-            }
-
-            return false;
-        }, false);
-
-        document.addEventListener('keyup', (event) => {
-            // 87, 65, 83, 68
-            let element = document.getElementById('key_' + event.keyCode);
-            if (element) {
-                element.style["background-color"] = "black";
-                element.style.color = "white";
-
-                this.socketController.emit("key-command", event.keyCode);
-            }
-            return false;
-        }, false);
+        this.socketController.init(); */
     }
 
     load(onLoad) {
@@ -49,6 +27,14 @@ export default class  {
 
     start() {
         this.resize();
+        $('.slider').unslider(
+            { 
+                autoplay: true, 
+                delay: 3000,
+                arrows: false,
+                infinite: true
+            }
+        );
     }
 
     animate(dt) {
