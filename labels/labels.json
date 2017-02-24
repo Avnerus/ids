@@ -1,27 +1,27 @@
 {
   "labels": [
     {
-      "Arts001": [
+      "lines": [
         "  Arts, Design",
         "and Architecture"
       ]
     },
     {
-      "Arts002": [
+      "lines": [
         " Visual Culture",
         "and Contemporary",
         "      Art"
       ]
     },
     {
-      "Arts003": [
+      "lines": [
         "Curating, Managing",
         "and Mediating Ar",
-        "       t",
+        "       t"
           ]
     },
     {
-    "Arts004": [
+    "lines": [
       "  New Media - ",
       "   New Media",
       "    Design",
@@ -29,34 +29,33 @@
         ]
   },
     {
-      "Business001": [
+      "lines": [
         "Global business",
         "   dynamics"
       ]
     },
     {
-      "Business002": [
+      "lines": [
         "   Buissness",
         "and Econonomics"
       ]
     },
     {
-    "Business003": [
+    "lines": [
       " Business Control",
       "ler as a Strateg",
       "ic Partner"
     ]
     },
 
-
     {
-      "Engine001": [
+      "lines": [
         "   Technology",
         "and Engineering"
       ]
     },
     {
-      "Engine002": [
+      "lines": [
         " Materials and ",
         "sustainable use",
         "   of natural",
@@ -64,7 +63,7 @@
       ]
     },
     {
-    "Engine003": [
+    "lines": [
       "Advanced Materia",
       "ls for Innovatio",
       "n and Sustaina",
@@ -72,7 +71,7 @@
     ]
   },
   {
-  "Engine004": [
+  "lines": [
     "Advanced Materia",
     "ls for Innovatio",
     "n and Sustaina",
@@ -80,14 +79,14 @@
   ]
 },
 {
-"Engine005": [
+"lines": [
   " Human Computer",
   "Interaction and",
   "Design"
 ]
 },
     {
-      "Misc001": [
+      "lines": [
         "Entrepreneurship",
         "      and",
         "   Innovation",
@@ -95,18 +94,12 @@
       ]
     },
     {
-      "Misc002": [
+      "lines": [
         " European Mining",
         "  Minerals and",
         "Environmental Pro",
         "gram Management"
       ]
-    },
-
-
-
-
-
-,
+    }
   ]
 }
