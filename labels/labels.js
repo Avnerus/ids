@@ -71,14 +71,6 @@ export default
       "    bility"
     ]
   },
-  {
-  "lines": [
-    "Advanced Materia",
-    "ls for Innovatio",
-    "n and Sustaina",
-    "    bility"
-  ]
-},
 {
 "lines": [
   " Human Computer",
@@ -100,6 +92,27 @@ export default
         "  Minerals and",
         "Environmental Pro",
         "gram Management"
+      ]
+    },
+    {
+      "lines": [
+        "The science",
+        "of exploitation"
+      ]
+    },
+    {
+      "lines": [
+        " Mechanics of",
+        "Mediated Entropy"
+      ]
+    },
+
+    {
+      "lines": [
+        "Entrepreneurship",
+        "to afford Future",
+        "    Cancer ",
+        "   Treatment"
       ]
     }
   ]
