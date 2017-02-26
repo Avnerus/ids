@@ -15,6 +15,6 @@ app.get('/label', function (req, res) {
   res.send(_.sample(Labels.labels));
 })
 
-server.listen(3000, function () {
-      console.log('listening on port 3000!');
+server.listen(3001, function () {
+      console.log('listening on port 3001!');
 });
