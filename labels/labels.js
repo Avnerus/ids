@@ -17,8 +17,8 @@ export default
     {
       "lines": [
         "Curating, Managing",
-        "and Mediating Ar",
-        "       t"
+        "and Mediating",
+        "       Art"
           ]
     },
     {
@@ -43,9 +43,10 @@ export default
     },
     {
     "lines": [
-      " Business Control",
-      "ler as a Strateg",
-      "ic Partner"
+      "Business",
+      " Controller as ",
+      "a Strategic",
+      "Partner"
     ]
     },
 
@@ -65,10 +66,10 @@ export default
     },
     {
     "lines": [
-      "Advanced Materia",
-      "ls for Innovatio",
-      "n and Sustaina",
-      "    bility"
+      "Advanced",
+      " Materials for",
+      "   Innovation",
+      "and Sustainability"
     ]
   },
 {
