@@ -1,53 +1,74 @@
 <!doctype html>
 <html>
-    <head>
-       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
-        <link type="text/css" href="css/ids.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/unslider.css">
-        <link rel="stylesheet" href="css/unslider-dots.css">
-        <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
-        <title>Softbot</title>
-    </head>
-    <body>
-        <script src="lib/dat.gui.min.js"></script>
-        <script src="lib/jquery-2.2.4.min.js"></script>
-        <script src="lib/unslider-min.js"></script>
-        <script src="lib/socket.io-1.4.5.js"></script>
-        <script src="lib/bootstrap.min.js"></script>
 
-        <script src="bundle.js"></script>
-        <div id="game">
-            <div id="headline">
-                <h1>Learning Centre - Interdisciplinary Station</h1>
-            </div>
-            <div class="slider">
-                <ul>
-                    <li>
-                    <img src="assets/pr1.jpg"></img>
-                    </li>
-                    <li>
-                    <img src="assets/pr2.jpg"></img>
-                    </li>
-                    <li>
-                    <img src="assets/pr3.jpg"></img>
-                    </li>
-                </ul>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link type="text/css" href="css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="css/ids.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/unslider.css">
+    <link rel="stylesheet" href="css/unslider-dots.css">
+    <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+    <title>Softbot</title>
+</head>
+
+<body>
+    <script src="lib/dat.gui.min.js"></script>
+    <script src="lib/jquery-2.2.4.min.js"></script>
+    <script src="lib/unslider-min.js"></script>
+    <script src="lib/socket.io-1.4.5.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+
+    <script src="bundle.js"></script>
+    <div id="game">
+        <!--  <div id="headline">
+              <h1>Learning Centre - Interdisciplinary Station</h1>
+            </div> -->
+        <div class="slider">
+            <ul>
+                <li>
+                    <img src="assets/pr0.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr1.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr2.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr3.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr4.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr5.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr6.png"></img>
+                </li>
+                <li>
+                    <img src="assets/pr7.png"></img>
+                </li>
+                     <li>
+                    <img src="assets/pr8.png"></img>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="splash-container" class="splash">
+        <div id="loading-container" class="splash-container" style="display:none;">
+            <div id="loading-image">
+                <img src="assets/splash/loading.gif" width="400px"></img>
             </div>
         </div>
-        <div id="splash-container" class="splash">
-            <div id="loading-container" class="splash-container" style="display:none;">
-                <div id="loading-image">
-                    <img src="assets/splash/loading.gif" width="400px"></img>
-                </div>
-            </div>
-            <div id="start-container" class="splash-container" style="display:none">
-                <a target="_self" href="#" id="start-button">
-                    <img width="200px" src="assets/splash/start.png"></img>
-                </a>
-            </div>
+        <div id="start-container" class="splash-container" style="display:none">
+            <a target="_self" href="#" id="start-button">
+                <img width="200px" src="assets/splash/start.png"></img>
+            </a>
         </div>
-    </body>
+    </div>
+</body>
+
 </html>

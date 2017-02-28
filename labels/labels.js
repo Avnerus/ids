@@ -1,3 +1,4 @@
+export default
 {
   "labels": [
     {
@@ -16,8 +17,8 @@
     {
       "lines": [
         "Curating, Managing",
-        "and Mediating Ar",
-        "       t"
+        "and Mediating",
+        "       Art"
           ]
     },
     {
@@ -42,9 +43,10 @@
     },
     {
     "lines": [
-      " Business Control",
-      "ler as a Strateg",
-      "ic Partner"
+      "Business",
+      " Controller as ",
+      "a Strategic",
+      "Partner"
     ]
     },
 
@@ -64,20 +66,12 @@
     },
     {
     "lines": [
-      "Advanced Materia",
-      "ls for Innovatio",
-      "n and Sustaina",
-      "    bility"
+      "Advanced",
+      " Materials for",
+      "   Innovation",
+      "and Sustainability"
     ]
   },
-  {
-  "lines": [
-    "Advanced Materia",
-    "ls for Innovatio",
-    "n and Sustaina",
-    "    bility"
-  ]
-},
 {
 "lines": [
   " Human Computer",
@@ -99,6 +93,27 @@
         "  Minerals and",
         "Environmental Pro",
         "gram Management"
+      ]
+    },
+    {
+      "lines": [
+        "The science",
+        "of exploitation"
+      ]
+    },
+    {
+      "lines": [
+        " Mechanics of",
+        "Mediated Entropy"
+      ]
+    },
+
+    {
+      "lines": [
+        "Entrepreneurship",
+        "to afford Future",
+        "    Cancer ",
+        "   Treatment"
       ]
     }
   ]
