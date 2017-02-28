@@ -24,13 +24,12 @@ export default class  {
 
     }
 
-
     start() {
         this.resize();
         $('.slider').unslider(
             { 
                 autoplay: true, 
-                delay: 3000,
+                delay: 5000,
                 arrows: false,
                 infinite: true
             }
