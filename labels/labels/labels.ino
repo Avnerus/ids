@@ -20,7 +20,7 @@ void setup() {
   
   // Parse the configuration json
    String input = 
-  //"{\"labels\" : [{\"lines\": [\"Avner is the\",\"boo\", \"yeah baby\",\"good\"]},{\"lines\": [\"Roee is the\",\"coo\",\"oh noo\",\"Sad\"]}]}";
+  "{\"labels\" : [{\"lines\": [\"Avner is the\",\"boo\", \"yeah baby\",\"good\"]},{\"lines\": [\"Roee is the\",\"coo\",\"oh noo\",\"Sad\"]}]}";
  "{ \"labels\": [ { \"lines\": [ \" Arts, Design\", \"and Architecture\" ] }, { \"lines\": [ \"Curating, Managing\", \"and Mediating Ar\", \" t\" ] }, { \"lines\": [ \" New Media - \", \" New Media\", \" Design\", \"and Production\" ] }, { \"lines\": [\"what\", \"what\"] }]}";//, { \"lines\": [ \" Buissness\", \"and Econonomics\" ] }, { \"lines\": [ \" Business Control\", \"ler as a Strateg\", \"ic Partner\" ] }, { \"lines\": [ \" Technology\", \"and Engineering\" ] }, { \"lines\": [ \" Materials and \", \"sustainable use\", \" of natural\", \" resources\" ] }, { \"lines\": [ \"Advanced Materia\", \"ls for Innovatio\", \"n and Sustaina\", \" bility\" ] }, { \"lines\": [ \"Advanced Materia\", \"ls for Innovatio\", \"n and Sustaina\", \" bility\" ] }, { \"lines\": [ \" Human Computer\", \"Interaction and\", \"Design\" ] }, { \"lines\": [ \"Entrepreneurship\", \" and\", \" Innovation\", \" Management\" ] }, { \"lines\": [ \" European Mining\", \" Minerals and\", \"Environmental Pro\", \"gram Management\" ] } ] }";
 
  //String input2 = "{\"labels\" : [{\"lines\": [\"Avner is the\",\"boo\", \"yeah baby\",\"good\"]},{\"lines\": [\"Roee is the\",\"coo\",\"oh noo\",\"Sad\"]}]}";
