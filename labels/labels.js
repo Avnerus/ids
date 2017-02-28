@@ -115,6 +115,12 @@ export default
         "    Cancer ",
         "   Treatment"
       ]
+    },
+    {
+      "lines": [
+        "Money",
+        "(Cash only)",
+      ]
     }
   ]
 }
